@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+dbt_ssh/target/
+dbt_ssh/dbt_packages/
+dagster_pipeline/orchestration/orchestration/__pycache__/
+logs/
